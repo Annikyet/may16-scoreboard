@@ -1,0 +1,30 @@
+
+#team-0, #team-1, #scoreboard {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 12vh;
+}
+
+#team-0 {
+  background-color: blue;
+  color: white;
+}
+
+#team-1 {
+  background-color: red;
+  color: white;
+}
+
+.h-30 {
+  height: 30vh;
+}
+
+.scores {
+  height: 80%;
+}
+
+.fullsize {
+  height: 100%;
+  width: 100%;
+}
